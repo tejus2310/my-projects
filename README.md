@@ -1,10 +1,10 @@
-# 📊 My Projects (Power BI Dashboards)
+ My Projects (Power BI Dashboards)
 
 This repository contains interactive Power BI dashboards created for analyzing business data. These projects showcase skills in data cleaning, modeling, visualization, and business intelligence reporting.
 
 ---
 
-## 📂 Projects Included
+Projects Included
 
 ### 1. **Amazon Sales Analysis Dashboard**
 - **File:** `Amazon Sales Dashboard.pbix`
@@ -28,7 +28,7 @@ This repository contains interactive Power BI dashboards created for analyzing b
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **Power BI** (Data Visualization, Dashboards)  
 - **Power Query** (Data Cleaning & Transformation)  
 - **DAX** (Data Modeling & Calculations)  
@@ -36,21 +36,21 @@ This repository contains interactive Power BI dashboards created for analyzing b
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. Download the `.pbix` file from this repository.  
 2. Open it using **Power BI Desktop**.  
 3. Explore the interactive dashboards and modify them as needed.  
 
 ---
 
-## 📈 Key Highlights
+##  Key Highlights
 - End-to-end dashboard creation: data preparation → modeling → visualization.  
 - Business-focused insights for decision-making.  
 - Demonstrates strong analytical and reporting skills.  
 
 ---
 
-## 📬 Contact
+##  Contact
 👤 **Author:** Tejus Pandey  
 📧 *[Your Email Here]*  
 🔗 [LinkedIn / Portfolio Link if available]  
